@@ -1,0 +1,15 @@
+{
+  "name": "curso-express",
+  "version": "1.0.0",
+  "description": "introduccion a express",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Cube",
+  "license": "ISC",
+  "dependencies": {
+    "countries-list": "^2.5.6"
+  }
+}
